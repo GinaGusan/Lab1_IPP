@@ -23,7 +23,7 @@ Some of the global questions that appeared in my head are:
 2. Thinking about and creating the right model of the database in order 
 to make the data storage possible and accesible for every operation performed.
 3. Allowing views to process incoming data by getting it and parsing as json's.
-4. Apllying filters for every request in order to validate data.
+4. Applying filters for every request in order to validate data.
 5. Building the logic of the entire API according to the given format for inputs and outputs and also - specified codes
 
 
