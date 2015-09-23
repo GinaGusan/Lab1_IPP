@@ -1,13 +1,13 @@
 # Lab1_IPP
 
-  For this laboratory, I have chosen to work with Django framework.
+...For this laboratory, I have chosen to work with Django framework.
 I admit that the task raised a lot of questions for me. There were many things I wasn't familiar with. 
 Beginning with "What is an oAuth service and how it works?" until "How the final product should look like?"
 Some of the global questions that appeared in my head are:
 
 1. How should the application's model look like?
 2. Which are the conditions for a user to be able to use this service?
-3. How is guaranted the confidetiality of the user's data?
+3. How is guaranteed the confidentiality of the user's data?
 4. Can the same user login from more than one application at the same time and what should happen then?
 5. How can be an instance defined?
 6. How much time is a token viable?
