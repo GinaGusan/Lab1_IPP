@@ -1,6 +1,6 @@
 # Lab1_IPP
 
-...For this laboratory, I have chosen to work with Django framework.
+   For this laboratory, I have chosen to work with Django framework.
 I admit that the task raised a lot of questions for me. There were many things I wasn't familiar with. 
 Beginning with "What is an oAuth service and how it works?" until "How the final product should look like?"
 Some of the global questions that appeared in my head are:
