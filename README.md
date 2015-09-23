@@ -1,6 +1,6 @@
 # Lab1_IPP
 
-For this laboratory, I have chosen to work with Django framework.
+  For this laboratory, I have chosen to work with Django framework.
 I admit that the task raised a lot of questions for me. There were many things I wasn't familiar with. 
 Beginning with "What is an oAuth service and how it works?" until "How the final product should look like?"
 Some of the global questions that appeared in my head are:
@@ -16,6 +16,7 @@ Some of the global questions that appeared in my head are:
 9. How the data will be transmited through the application?
 10. How to validate  user's data?
 
+
 ###How I made the system work?
 
 1. Separating the system's attributes by implementing each request in a different view.
@@ -24,6 +25,7 @@ to make the data storage possible and accesible for every operation performed.
 3. Allowing views to process incoming data by getting it and parsing as json's.
 4. Apllying filters for every request in order to validate data.
 5. Building the logic of the entire API according to the given format for inputs and outputs and also - specified codes
+
 
 ###Which would be some future improvements?
 
